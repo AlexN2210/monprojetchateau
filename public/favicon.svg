@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Fond circulaire -->
+  <circle cx="16" cy="16" r="15" fill="#1e3a8a" stroke="#f59e0b" stroke-width="2"/>
+  
+  <!-- Bâtiment/Château -->
+  <path d="M8 24V12l8-6 8 6v12H8z" fill="#f59e0b"/>
+  
+  <!-- Toit -->
+  <path d="M8 12l8-6 8 6" fill="#dc2626" stroke="#991b1b" stroke-width="1"/>
+  
+  <!-- Fenêtres -->
+  <rect x="12" y="16" width="3" height="3" fill="#1e3a8a" rx="1"/>
+  <rect x="17" y="16" width="3" height="3" fill="#1e3a8a" rx="1"/>
+  
+  <!-- Porte -->
+  <rect x="14" y="20" width="4" height="4" fill="#1e3a8a" rx="1"/>
+  
+  <!-- Drapeau -->
+  <line x1="20" y1="8" x2="20" y2="12" stroke="#dc2626" stroke-width="2"/>
+  <polygon points="20,8 22,9 20,10" fill="#dc2626"/>
+</svg>
