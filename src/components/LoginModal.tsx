@@ -55,7 +55,7 @@ export const LoginModal: React.FC<LoginModalProps> = ({ onClose }) => {
           setError('Cet email est déjà utilisé');
         }
       }
-    } catch (error) {
+    } catch {
       setError('Une erreur est survenue. Veuillez réessayer.');
     }
 

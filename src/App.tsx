@@ -181,7 +181,7 @@ function App() {
         <div className="text-center max-w-md mx-auto px-4">
           <Building2 className="h-16 w-16 text-gold mx-auto mb-6" />
           <h1 className="text-3xl font-playfair font-bold text-navy mb-4">
-            Heritage Tracker
+            Mon Projet <span>Chateau</span>
           </h1>
           <p className="text-gray-600 font-roboto mb-8">
             Gérez votre patrimoine immobilier en toute simplicité. 

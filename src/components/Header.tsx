@@ -20,7 +20,7 @@ export const Header: React.FC<HeaderProps> = ({ totalNetWorth, totalRentalIncome
           <div className="flex items-center space-x-3 mb-4 md:mb-0">
             <Building2 className="h-8 w-8 text-gold" />
             <h1 className="text-2xl md:text-3xl font-playfair font-bold">
-              Heritage Tracker
+              Mon Projet <span>Chateau</span>
             </h1>
           </div>
           
